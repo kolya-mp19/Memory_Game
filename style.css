@@ -1,0 +1,71 @@
+.field {
+    background: green;
+    width: 1280px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+
+.foter {
+    background: green;
+    width: 1280px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.col {
+    float: left;
+    width: 113px;
+    height: 157px;
+    background: green;
+    text-align: center;
+    padding: 2px;
+
+}
+
+.row {
+    padding-left: 301px;
+    padding-right: 301px;
+    padding-top: 60px;
+    padding-bottom: 0px;
+    width: 702px;
+}
+
+img {
+   display: inline-block;
+   width: 100%;
+}
+
+.key {
+    text-align: center;
+    margin-top: -40px;
+}
+
+.reStart {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.countdown {
+    text-align: center;
+    margin-bottom: 0px;
+    color: red;
+}
+
+.head {
+    background: green;
+    width: 1280px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 30px;
+}
+
